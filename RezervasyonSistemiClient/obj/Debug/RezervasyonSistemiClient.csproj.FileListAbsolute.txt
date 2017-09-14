@@ -1,0 +1,26 @@
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.csprojResolveAssemblyReference.cache
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Properties.Resources.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.csproj.GenerateResource.Cache
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\bin\Debug\RestSharp.dll
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\bin\Debug\RestSharp.xml
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Dashboard.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Login.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Isletme.Isletmelerim.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Isletme.IsletmeEkle.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Isletme.IsletmeDuzenle.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Kullanici.Profilim.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\bin\Debug\Rezervasyon Sistemi Client.exe.config
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\bin\Debug\Rezervasyon Sistemi Client.exe
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\bin\Debug\Rezervasyon Sistemi Client.pdb
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\Rezervasyon Sistemi Client.exe
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\Rezervasyon Sistemi Client.pdb
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Kat.KatListesi.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Kat.KatEkle.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Kat.KatDuzenle.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Masa.MasaListesi.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Masa.MasaEkle.resources
+C:\Users\SE\Documents\Visual Studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Masa.MasaDuzenle.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Planlar.Planlarım.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Planlar.PlanEkle.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.Planlar.PlanDuzenle.resources
+C:\Users\SE\documents\visual studio 2015\Projects\RezervasyonSistemiClient\RezervasyonSistemiClient\obj\Debug\RezervasyonSistemiClient.RezervasyonTalepleri.RezervasyonTaleplerim.resources
